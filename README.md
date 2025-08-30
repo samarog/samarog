@@ -4,12 +4,31 @@ My name is Gonçalo Amaro and I’m a web developer with a unique professional j
 
 <details>
   <summary>Read more</summary>
+<br/>
+<p>
+  In early 2025, I started a <strong>Full-stack Development certification</strong> at Udemy, from 
+  <em>The App Brewery (London)</em>, building prototypes, some of which even grew into MVPs.
+</p>
 
-In early 2025, I started a Full-stack Development certification at Udemy, from The App Brewery (London), building prototypes, some of which even grew into MVPs. I’ve worked on frontend projects—creating intuitive interfaces, UI/UX, animations, and performance optimization with **HTML, CSS, JavaScript, Bootstrap, jQuery, and React**, as well as backend development with **Node.js/Express, PostgreSQL, and REST APIs**, with a strong emphasis on security and scalability.
+<p>
+  I’ve worked on <strong>frontend projects</strong>, creating intuitive interfaces, UI/UX, animations, 
+  and performance optimization with <strong>HTML, CSS, JavaScript, Bootstrap, jQuery, and React</strong>, 
+  as well as <strong>backend development</strong> with <strong>Node.js/Express, PostgreSQL, and REST APIs</strong>, 
+  with a strong emphasis on security and scalability.
+</p>
 
-I also have hands-on experience in conversational AI, designing intelligent workflows, training agents, and integrating frameworks like Botpress and Chatbase into enterprise solutions. Still learning and always will be.
+<p>
+  I also have hands-on experience in <strong>conversational AI</strong>, designing intelligent workflows, 
+  training agents, and integrating frameworks like <strong>Botpress</strong> and <strong>Chatbase</strong> 
+  into enterprise solutions.
+</p>
 
-### 💻 Tech Stack
+<p>
+  <em>Still learning and will always be.</em>
+</p>
+
+
+### Tech Stack
 
 | Frontend | Backend | Conversational AI |
 |----------|---------|-------------------|
