@@ -1,6 +1,6 @@
 ## Hey
 
-My name is Gonçalo Amaro and I’m a web developer with a unique professional journey that bridges **journalism** and **technology**. After a decade covering financial markets as an economic journalist, where I sharpened my skills in data analysis, investigation, and storytelling, I decided to embrace a new challenge and transition into software development.
+My name is Gonçalo Amaro and I’m a web developer with a unique professional journey that bridges **journalism** and **technology**. After a decade covering financial markets as an economic journalist, where I sharpened my skills in data analysis, investigation, and storytelling, I decided to embrace a new challenge and transition into software development. Check my work below or [here](https://samarog.github.io/devcard/).
 
 <details>
   <summary>Read more</summary>
