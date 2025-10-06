@@ -14,7 +14,7 @@ My name is Gonçalo Amaro and I’m a web developer with a unique professional j
   I’ve worked on <strong>frontend projects</strong>, creating intuitive interfaces, UI/UX, animations, 
   and performance optimization with <strong>HTML, CSS, JavaScript, Bootstrap, jQuery, and React</strong>, 
   as well as <strong>backend development</strong> with <strong>Node.js/Express, PostgreSQL, and REST APIs</strong>, 
-  with a strong emphasis on security and scalability. Recently, I’ve been conducting some experimental work with C# in the .NET environment.
+  with a strong emphasis on security and scalability. Recently, I’ve been conducting some experimental work with <strong>C#</strong> in the <strong>.NET</strong> environment.
 </p>
 
 <p>
