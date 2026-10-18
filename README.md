@@ -1,42 +1,75 @@
-## Hey
+## Hey there!
 
-My name is Gonçalo Amaro and I’m a web developer with a unique professional journey that bridges **journalism** and **technology**. After a decade covering financial markets as an economics reporter, where I sharpened my skills in data analysis, investigation, and storytelling, I decided to embrace a new challenge and transition into software development. Check my work below or [here](https://samarog.github.io/devcard/).
+I'm **Gonçalo Amaro**, a **Full-Stack Software Developer** specializing in **C#, .NET, and ASP.NET Core MVC**, with a professional background that bridges **journalism, economics, and technology**.
+
+Before transitioning into software development, I spent nearly a decade at **Dow Jones** as a financial journalist, covering economic developments and financial markets. That experience shaped my analytical thinking, problem-solving approach, and communication skills, qualities I now bring to software engineering.
+
+Today, I develop and maintain web applications and enterprise software solutions, working across the full stack, from frontend interfaces to backend architecture, databases, and API integrations.
+
+I'm also pursuing a **Master's Degree in Applied Computer Science**, expanding my knowledge of software architecture, cloud computing, cybersecurity, and artificial intelligence.
+
+Check out my projects below or visit my [developer portfolio](https://samarog.github.io/devcard/).
 
 <details>
-  <summary>Read more</summary>
-<br/>
-<p>
-  In early 2025, I started a <strong>Full-stack Development certification</strong> at Udemy, from 
-  <em>The App Brewery (London)</em>, building prototypes, some of which even grew into MVPs.
-</p>
+<summary><strong>More about me</strong></summary>
 
-<p>
-  I’ve worked on <strong>frontend projects</strong>, creating intuitive interfaces, UI/UX, animations, 
-  and performance optimization with <strong>HTML, CSS, JavaScript, Bootstrap, jQuery, and React</strong>, 
-  as well as <strong>backend development</strong> with <strong>Node.js/Express, PostgreSQL, and REST APIs</strong>, 
-  with a strong emphasis on security and scalability. Recently, I’ve been conducting some experimental work with <strong>C#</strong> in the <strong>.NET</strong> environment.
-</p>
+### What I'm working on
 
-<p>
-  I also have hands-on experience in <strong>conversational AI</strong>, designing intelligent workflows, 
-  training agents, and integrating frameworks like <strong>Botpress</strong> and <strong>Chatbase</strong> 
-  into enterprise solutions.
-</p>
-
-<p>
-  <em>Still learning and will always be.</em>
-</p>
-
+- **Software Development:** Building and maintaining web applications using C#, ASP.NET Core MVC, Entity Framework Core, and relational databases.
+- **AI & Automation:** Researching, developing, and integrating AI agents and LLM-powered solutions for business applications.
+- **Developer Tools:** Developing TypePeek, a Visual Studio extension designed to make C# type structures easier to explore and understand.
+- **Continuous Learning:** Exploring software architecture, cloud infrastructure, virtualization, and cybersecurity through my Master's degree.
 
 ### Tech Stack
 
-| Frontend | Backend | Conversational AI |
-|----------|----------|-------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Botpress](https://img.shields.io/badge/Botpress-00AEEF?style=for-the-badge&logo=botpress&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![Chatbase](https://img.shields.io/badge/Chatbase-FF6F00?style=for-the-badge&logo=openai&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white) | |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | |
-| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | |
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+**Backend & Frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Frontend**
+
+![Razor](https://img.shields.io/badge/Razor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=flat-square&logo=less&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Integration**
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
+![Chatbase](https://img.shields.io/badge/Chatbase-FF6F00?style=flat-square)
+![Botpress](https://img.shields.io/badge/Botpress-000000?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
 
 </details>
